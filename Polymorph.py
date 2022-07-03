@@ -1,4 +1,4 @@
-# HariFun 208 - Polymorphy
+# HariFun 208 - Polymorph
 # by Hari Wiguna, 2022
 
 import st7789
